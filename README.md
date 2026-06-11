@@ -68,8 +68,6 @@ O modelo segue o padrão **Star Schema** com:
 
 ## 📸 Prints do Dashboard
 
-> *(Adicione aqui os prints das 3 páginas do dashboard após concluir o Power BI)*
-
 **Página 1 — Visão Geral**
 <img width="1057" height="601" alt="image" src="https://github.com/user-attachments/assets/66143a5a-1691-4736-af5f-b0f5eb0c9ead" />
 

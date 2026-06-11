@@ -12,7 +12,7 @@
 
 ## 🎯 Descrição do Tema e Objetivo
 
-**Tema:** Análise de Vendas Comercial
+**Tema:** Análise de Vendas Virtuais
 **Objetivo:** Desenvolver um dashboard analítico que permita identificar padrões de compra em uma plataforma de e-commerce fictícia, respondendo às seguintes perguntas de negócio:
 
 - Quais categorias geram maior receita?

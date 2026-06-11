@@ -76,6 +76,8 @@ O modelo segue o padrão **Star Schema** com:
 
 
 **Página 3 — Análise Detalhada**
+<img width="1175" height="676" alt="image" src="https://github.com/user-attachments/assets/d7760307-6a93-42ff-aa6e-3d886078ac4d" />
+
 
 
 ---

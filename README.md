@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas E-commerce — Power BI
+# 📊 Dashboard de Vendas — Power BI
 
 > Trabalho Final — Disciplina: Tratamento e Análise de Dados  
 > Faculdade Princesa do Oeste (FPO) — Curso de ADS

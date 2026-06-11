@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas — Power BI
+# 📊 Dashboard de Vendas Virtuais— Power BI
 
 > Trabalho Final — Disciplina: Tratamento e Análise de Dados  
 > Faculdade Princesa do Oeste (FPO) — Curso de ADS
